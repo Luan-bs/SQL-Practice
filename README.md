@@ -2,7 +2,7 @@
 
 [![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)](https://github.com/seu-usuario/banco-de-dados-pratica)
 [![Linguagem](https://img.shields.io/badge/Linguagem-SQL-blue)](https://www.sql.org/)
-[![Faculdade](https://img.shields.io/badge/Faculdade-Bacharelado%20Inteligência-Artifical-green)](https://faculdadedonaduzzi.com.br/inteligencia-artificial/)
+[![Faculdade](https://img.shields.io/badge/Faculdade-Bacharelado%20IA-green)](https://faculdadedonaduzzi.com.br/inteligencia-artificial/)
 
 Repositório com exercícios e práticas de Banco de Dados realizados durante meus estudos na faculdade. O objetivo é **aprender e aplicar conceitos de SQL**, criação de bancos, inserção de dados e consultas avançadas.
 
