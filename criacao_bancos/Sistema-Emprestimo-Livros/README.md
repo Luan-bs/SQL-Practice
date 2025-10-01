@@ -4,8 +4,6 @@
 
 A biblioteca de uma faculdade deseja informatizar seu sistema de empréstimos. O sistema deve armazenar informações sobre os livros disponíveis, os alunos cadastrados, os empréstimos realizados e as devoluções.
 
-![Modelo Conceitual](criacao_bancos/Sistema-Emprestimo-Livros/sistema_emprestimo_MER.jpg)
-
 ### Requisitos dos Dados
 
 - **Livro**:
